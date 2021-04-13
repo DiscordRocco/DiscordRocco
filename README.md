@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Rocco 👋
 
-<!--
-**ApolloPritchard/ApolloPritchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A developer from the United Kingdom.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Custom-bot](https://github.com/ApolloPritchard/custom-bot)
+
+
+### Languages & Skills
+- JavaScript
+
+### Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=ApolloPritchard&count_private=true&show_icons=true&theme=tokyonight) <br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=ApolloPritchard&theme=tokyonight)
+
+### Contact
+
+- [Discord](https://discord.com/users/604224348764766218)
+- [Twitter](https://twitter.com/RoccoPritchard)

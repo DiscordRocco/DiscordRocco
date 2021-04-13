@@ -13,7 +13,6 @@
 ### Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=ApolloPritchard&count_private=true&show_icons=true&theme=tokyonight) <br/>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ApolloPritchard&theme=tokyonight)
 
 ### Contact
 

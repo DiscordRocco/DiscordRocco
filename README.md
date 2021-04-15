@@ -1,8 +1,8 @@
 ### Hi there, I'm Rocco 👋
 
-#### A developer from the United Kingdom.
+I take time and confidence when developing and love to help big servers out.
 
-### Projects
+### Want you own custom bot? Look no further!
 
 - [Custom-bot](https://github.com/ApolloPritchard/custom-bot)
 

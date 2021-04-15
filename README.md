@@ -2,7 +2,7 @@
 
 I take time and confidence when developing and love to help big servers out.
 
-### Want you own custom bot? Look no further!
+### Want your own custom bot? Look no further!
 
 - [Custom-bot](https://github.com/ApolloPritchard/custom-bot)
 

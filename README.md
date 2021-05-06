@@ -4,7 +4,7 @@ I take time and confidence when developing and love to help big servers out.
 
 ### Want your own custom bot? Look no further!
 
-- [Custom-bot](https://github.com/ApolloPritchard/custom-bot)
+- [Custom-bot](https://github.com/RoccoPritchard/custom-bot)
 
 
 ### Languages & Skills
@@ -12,7 +12,7 @@ I take time and confidence when developing and love to help big servers out.
 
 ### Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=ApolloPritchard&count_private=true&show_icons=true&theme=tokyonight) <br/>
+![](https://github-readme-stats.vercel.app/api?username=RoccoPritchard&count_private=true&show_icons=true&theme=tokyonight) <br/>
 
 ### Contact
 

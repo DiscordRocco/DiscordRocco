@@ -1,4 +1,7 @@
 ### Hi there, I'm Rocco 👋
+**NOTE:** I'm currently not developing due to family issues
+
+
 
 I take time and confidence when developing and love to help big servers out.
 

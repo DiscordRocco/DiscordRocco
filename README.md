@@ -11,6 +11,8 @@ I take time and confidence when developing and love to help big servers out.
 
 ### Languages & Skills
 - JavaScript
+- HTML
+- CCS
 
 ### Statistics
 

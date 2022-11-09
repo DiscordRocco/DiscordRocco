@@ -24,4 +24,4 @@ I take time and confidence when developing and love to help big servers out.
 ### Contact
 
 - [Discord](https://discord.com/users/604224348764766218)
-- [Twitter](https://twitter.com/RoccoPritchard)
+- [Twitter](https://twitter.com/Rocco_Pritchard)

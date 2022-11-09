@@ -19,7 +19,7 @@ I take time and confidence when developing and love to help big servers out.
 
 ### Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=RoccoPritchard&count_private=true&show_icons=true&theme=tokyonight) <br/>
+![](https://github-readme-stats.vercel.app/api?username=DiscordRocco&count_private=true&show_icons=true&theme=tokyonight) <br/>
 
 ### Contact
 
